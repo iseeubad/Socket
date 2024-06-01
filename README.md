@@ -2,7 +2,7 @@ Sure! Below is a comprehensive and well-structured README file for your project.
 
 ---
 
-# Mini-Projet C Avancé: Socket et Structures de Données
+# Advanced C Language Mini-Project: Sockets and Data Structures
 
 ## Description
 
