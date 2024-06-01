@@ -123,5 +123,3 @@ Contributions are welcome! Please fork this repository and submit pull requests 
  [Mohamed Salim Soulmani](https://github.com/iseeubad) - feel free to contact me!
 
 ---
-
-This README file provides a clear overview of the project, its setup, usage, features, and contribution guidelines. It helps potential contributors and users understand the project and how to get started with it.
