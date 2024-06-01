@@ -1,0 +1,14 @@
+Doe John 12345 johndoe@example.com Elm_Street New_York USA
+Smith Jane 67890 janesmith@example.com Maple_Avenue Los_Angeles USA
+Khan Ahmed 11223 ahmedkhan@example.com Olive_Road Cairo Egypt
+Garcia Maria 44556 mariagarcia@example.com Pine_Street Madrid Spain
+Wei Chen 77889 chenwei@example.com Bamboo_Lane Beijing China
+Dupont Pierre 99100 pierredupont@example.com Champs-Elysees Paris France
+Ivanova Olga 22334 olgaivanova@example.com Red_Square Moscow Russia
+Al-Farsi Hassan 55667 hassanalfarsi@example.com Palm_Street Dubai UAE
+Nakamura Satoshi 88990 satoshinakamura@example.com Cherry_Blossom_Street Tokyo Japan
+Martinez Lina 33445 linamartinez@example.com Sunflower_Road Buenos_Aires Argentina
+
+
+
+
