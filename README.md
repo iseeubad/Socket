@@ -1,4 +1,3 @@
-Sure! Below is a comprehensive and well-structured README file for your project.
 
 ---
 
